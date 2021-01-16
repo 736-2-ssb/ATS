@@ -1,3 +1,14 @@
+/*******************************************************************************
+* Copyright (C) 2020 TUSUR, FB
+* File              : main.cpp
+* IDE               : Net Beans
+* Created File      : 29.12.2020
+* Last modified     : 16.01.2020
+*
+* Support mail      : s.b_sharkova@mail.ru
+*
+* Description       : Micro-ATS 
+*******************************************************************************/
 #include "main.h"
 #include <stdlib.h>
 #include <stdio.h>
